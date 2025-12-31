@@ -1,0 +1,5 @@
+streamlit>=1.30
+psutil>=5.9
+pandas>=1.5
+matplotlib>=3.7
+scikit-learn>=1.3
